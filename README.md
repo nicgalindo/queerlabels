@@ -1,2 +1,2 @@
 # queerlabels
-Interactive Website with information on different lables for sexuality, romantic orientatio, and gender identity
+Interactive website with information on different lables for sexuality, romantic orientation, and gender identity
